@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CloudCRM\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CloudCRM\\.nuget\\packages"
+    ]
+  }
+}
